@@ -128,7 +128,9 @@ body {
   padding: 10px 20px;
   font-weight: bold;
 }
-
+.cover-heading {
+  margin-bottom: 30px;
+}
 
 /*
  * Footer
