@@ -57,6 +57,11 @@ body {
   width: 100%;
 }
 
+.masthead-logo {
+  height: 26px;
+  width: 100%;
+}
+
 /* Padding for spacing */
 .inner {
   padding: 30px;
