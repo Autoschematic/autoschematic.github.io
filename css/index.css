@@ -58,10 +58,11 @@ body {
 }
 
 .masthead-logo {
-  height: 26px;
-  width: 100%;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  display: block;
+  position: absolute;
+  height: 33px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 /* Padding for spacing */
