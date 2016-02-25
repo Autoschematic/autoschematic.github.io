@@ -60,6 +60,8 @@ body {
 .masthead-logo {
   height: 26px;
   width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 /* Padding for spacing */
